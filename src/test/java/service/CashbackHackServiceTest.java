@@ -1,12 +1,10 @@
 package service;
 
-import org.junit.Assert;
-import org.junit.Test;
+import org.testng.Assert;
+import org.testng.annotations.Test;
 
 public class CashbackHackServiceTest {
-
     CashbackHackService service = new CashbackHackService();
-
 
     @Test
     public void remain1Test() {
