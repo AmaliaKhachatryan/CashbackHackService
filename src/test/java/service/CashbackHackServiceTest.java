@@ -4,6 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class CashbackHackServiceTest {
+
     CashbackHackService service = new CashbackHackService();
 
     @Test
