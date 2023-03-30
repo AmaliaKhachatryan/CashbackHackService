@@ -37,5 +37,4 @@ public class CashbackHackServiceTest {
     public void remain6Test() {
         Assert.assertEquals(service.remain(500), 500);
     }
-
 }
