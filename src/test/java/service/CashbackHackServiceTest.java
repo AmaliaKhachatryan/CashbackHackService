@@ -7,7 +7,6 @@ public class CashbackHackServiceTest {
 
     CashbackHackService service = new CashbackHackService();
 
-
     @Test
     public void remain1Test() {
         Assert.assertEquals(service.remain(0), 1000);
